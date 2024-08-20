@@ -67,3 +67,8 @@ The project includes eight detailed visualizations:
 - Integrating real-time data for up-to-date model pricing and releases.
 - Expanding the dataset to include more car models and regions.
 
+## Author
+
+Soniya D
+
+
